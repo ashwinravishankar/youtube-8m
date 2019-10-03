@@ -1,4 +1,4 @@
-# youtube-8m
+# YouTube-8m
 Starter code from: https://github.com/google/youtube-8m <br /><br />
 
 ## My project for CS 795 - Deep Learning class. <br /> 
